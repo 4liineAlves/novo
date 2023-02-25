@@ -1,0 +1,29 @@
+h1{
+    color:#7e335f;
+    text-align: center;
+    font-size: 90px;
+    border:double rgba(151, 87, 141, 0.603) ;
+    background-color: rgba(80, 107, 92, 0.644);
+
+}
+h2{
+    color: rgb(109, 54, 74);
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: rgb(29, 75, 7);
+}
+b{
+    color: rgb(86, 134, 130);
+}
+body{
+    background-color: rgba(165, 151, 158, 0.651);
+    border: 15px dotted rgb(43, 90, 42);
+
+    
+}
+h3{
+    color: rgb(24, 82, 33);
+    text-align: center;
+}
